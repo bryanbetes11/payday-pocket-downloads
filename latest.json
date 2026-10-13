@@ -1,0 +1,13 @@
+{
+  "packageId": "com.bryanbetes.paydaypocket",
+  "version": "0.1.1",
+  "versionCode": 2,
+  "apkUrl": "https://github.com/bryanbetes11/payday-pocket-downloads/releases/download/v0.1.1/Payday-Pocket-0.1.1-test.apk",
+  "bytes": 32904135,
+  "sha256": "63c6b35deae0814140bc4ee3acc3a86ceb5931c420f8f440668656bef59ac071",
+  "notes": [
+    "Automatic checks for new Android versions.",
+    "Check for Updates and download links in Settings.",
+    "Consistent guided forms and scrolling date pickers."
+  ]
+}
